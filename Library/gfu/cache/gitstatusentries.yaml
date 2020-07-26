@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2020-07-26T15:28:37.127+08:00
+  initializedAtString: 2020-07-26T15:28:37.127+08:00
+  entries:
+  - path: Assets/Arts/UI/battle/main_base.jpg.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_base.jpg.meta
+    projectPath: Assets/Arts/UI/battle/main_base.jpg.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_blood.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_blood.png.meta
+    projectPath: Assets/Arts/UI/battle/main_blood.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_btn_endturn.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_btn_endturn.png.meta
+    projectPath: Assets/Arts/UI/battle/main_btn_endturn.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_card_expence.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_card_expence.png.meta
+    projectPath: Assets/Arts/UI/battle/main_card_expence.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_card_recycle.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_card_recycle.png.meta
+    projectPath: Assets/Arts/UI/battle/main_card_recycle.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_card_store.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_card_store.png.meta
+    projectPath: Assets/Arts/UI/battle/main_card_store.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_card_store_numberbg.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_card_store_numberbg.png.meta
+    projectPath: Assets/Arts/UI/battle/main_card_store_numberbg.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_font_endturn.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_font_endturn.png.meta
+    projectPath: Assets/Arts/UI/battle/main_font_endturn.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_frame.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_frame.png.meta
+    projectPath: Assets/Arts/UI/battle/main_frame.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_opponent.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_opponent.png.meta
+    projectPath: Assets/Arts/UI/battle/main_opponent.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_opponent_cardframe.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_opponent_cardframe.png.meta
+    projectPath: Assets/Arts/UI/battle/main_opponent_cardframe.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_player.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_player.png.meta
+    projectPath: Assets/Arts/UI/battle/main_player.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_player_cardframe.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_player_cardframe.png.meta
+    projectPath: Assets/Arts/UI/battle/main_player_cardframe.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_talk.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_talk.png.meta
+    projectPath: Assets/Arts/UI/battle/main_talk.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/main_tips.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/main_tips.png.meta
+    projectPath: Assets/Arts/UI/battle/main_tips.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/originalimage/color&font.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/originalimage/color&font.png.meta
+    projectPath: Assets/Arts/UI/battle/originalimage/color&font.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/originalimage/effectimage.jpg.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/originalimage/effectimage.jpg.meta
+    projectPath: Assets/Arts/UI/battle/originalimage/effectimage.jpg.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/originalimage/noname1.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/originalimage/noname1.png.meta
+    projectPath: Assets/Arts/UI/battle/originalimage/noname1.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/originalimage/noname2.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/originalimage/noname2.png.meta
+    projectPath: Assets/Arts/UI/battle/originalimage/noname2.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/battle/originalimage/noname2.psd.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/battle/originalimage/noname2.psd.meta
+    projectPath: Assets/Arts/UI/battle/originalimage/noname2.psd.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/messagebox/Earth.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/messagebox/Earth.png.meta
+    projectPath: Assets/Arts/UI/messagebox/Earth.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/messagebox/Information.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/messagebox/Information.png.meta
+    projectPath: Assets/Arts/UI/messagebox/Information.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/messagebox/Question.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/messagebox/Question.png.meta
+    projectPath: Assets/Arts/UI/messagebox/Question.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/messagebox/Settings.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/messagebox/Settings.png.meta
+    projectPath: Assets/Arts/UI/messagebox/Settings.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/messagebox/Warning.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/messagebox/Warning.png.meta
+    projectPath: Assets/Arts/UI/messagebox/Warning.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/res/head1.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/res/head1.png.meta
+    projectPath: Assets/Arts/UI/res/head1.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Arts/UI/res/head2.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Arts/UI/res/head2.png.meta
+    projectPath: Assets/Arts/UI/res/head2.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets/Plugins/Pixelplacement/iTween/Images/iTweenNews.png.meta
+    fullPath: /Users/dengjiaying/Unity/Destiny/Assets/Plugins/Pixelplacement/iTween/Images/iTweenNews.png.meta
+    projectPath: Assets/Plugins/Pixelplacement/iTween/Images/iTweenNews.png.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Logs/Packages-Update.log
+    fullPath: /Users/dengjiaying/Unity/Destiny/Logs/Packages-Update.log
+    projectPath: Logs/Packages-Update.log
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Packages/manifest.json
+    fullPath: /Users/dengjiaying/Unity/Destiny/Packages/manifest.json
+    projectPath: Packages/manifest.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/dengjiaying/Unity/Destiny/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings/ProjectVersion.txt
+    fullPath: /Users/dengjiaying/Unity/Destiny/ProjectSettings/ProjectVersion.txt
+    projectPath: ProjectSettings/ProjectVersion.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings/VFXManager.asset
+    fullPath: /Users/dengjiaying/Unity/Destiny/ProjectSettings/VFXManager.asset
+    projectPath: ProjectSettings/VFXManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings/XRSettings.asset
+    fullPath: /Users/dengjiaying/Unity/Destiny/ProjectSettings/XRSettings.asset
+    projectPath: ProjectSettings/XRSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
