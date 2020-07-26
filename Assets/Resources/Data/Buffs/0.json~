@@ -1,0 +1,8 @@
+{
+	"id": "0",
+	"buffname": "抱头蹲防",
+	"lastturn": "1",
+	"type":"noattack",
+	"reacttime":"usecard",
+	"priority":"1"
+}

@@ -1,0 +1,9 @@
+ {
+    "id":1,
+    "hp":20,
+    "maxbattery":4,
+    "armor":"0",
+    "inibuffid":["1"],
+    "cardback":"1",
+    "drawnum":"5"
+    }

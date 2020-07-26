@@ -1,0 +1,2 @@
+1.下载unity2017.2.0f3
+2.下载github for unity,网址：https://unity.github.com/
